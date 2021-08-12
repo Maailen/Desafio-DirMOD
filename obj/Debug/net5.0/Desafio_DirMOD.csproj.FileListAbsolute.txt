@@ -1,0 +1,16 @@
+C:\Users\Selene Mailén\Downloads\Desafio_DirMOD\bin\Debug\net5.0\Desafio_DirMOD.exe
+C:\Users\Selene Mailén\Downloads\Desafio_DirMOD\bin\Debug\net5.0\Desafio_DirMOD.deps.json
+C:\Users\Selene Mailén\Downloads\Desafio_DirMOD\bin\Debug\net5.0\Desafio_DirMOD.runtimeconfig.json
+C:\Users\Selene Mailén\Downloads\Desafio_DirMOD\bin\Debug\net5.0\Desafio_DirMOD.runtimeconfig.dev.json
+C:\Users\Selene Mailén\Downloads\Desafio_DirMOD\bin\Debug\net5.0\Desafio_DirMOD.dll
+C:\Users\Selene Mailén\Downloads\Desafio_DirMOD\bin\Debug\net5.0\ref\Desafio_DirMOD.dll
+C:\Users\Selene Mailén\Downloads\Desafio_DirMOD\bin\Debug\net5.0\Desafio_DirMOD.pdb
+C:\Users\Selene Mailén\Downloads\Desafio_DirMOD\obj\Debug\net5.0\Desafio_DirMOD.csproj.AssemblyReference.cache
+C:\Users\Selene Mailén\Downloads\Desafio_DirMOD\obj\Debug\net5.0\Desafio_DirMOD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selene Mailén\Downloads\Desafio_DirMOD\obj\Debug\net5.0\Desafio_DirMOD.AssemblyInfoInputs.cache
+C:\Users\Selene Mailén\Downloads\Desafio_DirMOD\obj\Debug\net5.0\Desafio_DirMOD.AssemblyInfo.cs
+C:\Users\Selene Mailén\Downloads\Desafio_DirMOD\obj\Debug\net5.0\Desafio_DirMOD.csproj.CoreCompileInputs.cache
+C:\Users\Selene Mailén\Downloads\Desafio_DirMOD\obj\Debug\net5.0\Desafio_DirMOD.dll
+C:\Users\Selene Mailén\Downloads\Desafio_DirMOD\obj\Debug\net5.0\ref\Desafio_DirMOD.dll
+C:\Users\Selene Mailén\Downloads\Desafio_DirMOD\obj\Debug\net5.0\Desafio_DirMOD.pdb
+C:\Users\Selene Mailén\Downloads\Desafio_DirMOD\obj\Debug\net5.0\Desafio_DirMOD.genruntimeconfig.cache
